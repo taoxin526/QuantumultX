@@ -8,7 +8,7 @@
 
 ### 使用方法：
 
-  1.(移动端先点View code打开库里文件列表)点击库中的Orz-3.conf文件，点击raw获取真实地址，复制地址备用<br>
+  1.点击库中的Orz-3.conf文件，点击raw获取真实地址，复制地址备用<br>
 
   2.Quan X主界面，点击右下角风车，然后弹出界面下拉至 配置文件-下载，点击下载，将上一步复制的地址粘贴到弹出窗口，然后点确定<br>
 
@@ -58,7 +58,7 @@
   
 ## BoxJS
 
-BoxJS访问地址设定为 http://boxjs.com:9999/
+BoxJS访问地址设定为 http://boxjs.com/
 
 
 
@@ -88,6 +88,8 @@ BoxJS访问地址设定为 http://boxjs.com:9999/
  * [@JDHelloWorld](https://github.com/JDHelloWorld)
  
  * [@StimeKe](https://github.com/StimeKe)
+ 
+ * [@app2smile](https://github.com/app2smile)
 
 #### BoxJS作者： 
 
